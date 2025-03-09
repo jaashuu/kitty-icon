@@ -3,7 +3,7 @@
 <p align="center">
     <img width="256" src="https://github.com/jaashuu/kitty-icon/blob/main/kitty.iconset/icon_256.png" alt="kitty icon">
     <br>
-    an alternative icon for <a href="https://sw.kovidgoyal.net/kitty/">kitty</a>
+    an alternative icon for <a href="https://sw.kovidgoyal.net/kitty/">kitty</a>, inspired by the <a href="https://ghostty.org/">ghostty</a> mascot design
 </p>
 
 # installation
