@@ -14,6 +14,7 @@
     </summary>
   </ul>
 </div>
+
 1. download kitty.icns
 2. click on kitty.icns and cmd+c
 3. right click kitty.app in the Applications folder and hit 'Get info'
