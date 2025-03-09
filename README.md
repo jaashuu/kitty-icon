@@ -2,10 +2,17 @@
 
 <p align="center">
     <img width="256" src="https://github.com/jaashuu/kitty-icon/blob/main/kitty.iconset/icon_256.png" alt="kitty icon">
+    an alternative icon for <a href="https://sw.kovidgoyal.net/kitty/">kitty</a>
 </p>
 
 # installation
-## macos
+<div id="toc"> <!-- both work, toc or user-content-toc -->
+  <ul style="list-style: none;">
+    <summary>
+      <h2><b>macos</b></h2>
+    </summary>
+  </ul>
+</div>
 1. download kitty.icns
 2. click on kitty.icns and cmd+c
 3. right click kitty.app in the Applications folder and hit 'Get info'
