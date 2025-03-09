@@ -1,7 +1,9 @@
 # kitty app icon
+
 <p align="center">
     <img width="256" src="https://github.com/jaashuu/kitty-icon/blob/main/kitty.iconset/icon_256.png" alt="kitty icon">
 </p>
+
 # installation
 ## macos
 1. download kitty.icns
