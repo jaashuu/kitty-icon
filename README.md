@@ -20,3 +20,12 @@
 3. right click kitty.app in the Applications folder and hit 'Get info'
 4. at the top left, there should be a little image of the current kitty icon
 5. hit cmd+v with the new icon
+
+# other alternate icons
+
+[icon by k0nserv](https://github.com/k0nserv/kitty-icon)
+[icon by dinkdonk](https://github.com/DinkDonk/kitty-icon)
+[icon by hristost](https://github.com/hristost/kitty-alternative-icon)
+[icon by igrmk](https://github.com/igrmk/whiskers)
+[icon by samholmes](https://github.com/samholmes/whiskers)
+
