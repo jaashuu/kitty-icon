@@ -23,9 +23,9 @@
 
 # other alternate icons
 
-[icon by k0nserv](https://github.com/k0nserv/kitty-icon)
-[icon by dinkdonk](https://github.com/DinkDonk/kitty-icon)
-[icon by hristost](https://github.com/hristost/kitty-alternative-icon)
-[icon by igrmk](https://github.com/igrmk/whiskers)
+[icon by k0nserv](https://github.com/k0nserv/kitty-icon)  
+[icon by dinkdonk](https://github.com/DinkDonk/kitty-icon)  
+[icon by hristost](https://github.com/hristost/kitty-alternative-icon)  
+[icon by igrmk](https://github.com/igrmk/whiskers)  
 [icon by samholmes](https://github.com/samholmes/whiskers)
 
